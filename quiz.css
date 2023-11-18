@@ -1,0 +1,27 @@
+.body{
+  background: linear-gradient(50deg,  #df9dec, #e2ebf0) ;
+}
+.welcome{
+  font-size: 80px;
+  font-family: 'Times New Roman', Times, serif;
+  margin-left: 150px;
+  margin-top: 230px;
+}
+.click{
+  font-size: 20px;
+  margin-left: 270px;
+  margin-top: -40px;
+}
+.button{
+  display: inline-block;
+  background-image: linear-gradient(29deg, rgb(239, 81, 136), rgb(88, 185, 200));
+  color: white;
+  padding: 8px 30px;
+  margin: 20px;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius:5px;
+  border-color: rgb(0, 0, 0);
+  color:white;
+  text-decoration: none;
+  margin-left: 1000px;
+}
